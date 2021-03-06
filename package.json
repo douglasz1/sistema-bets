@@ -1,0 +1,39 @@
+{
+  "name": "bets-hiago",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "prod": "gulp --production",
+    "dev": "gulp watch"
+  },
+  "devDependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "eslint": "^4.6.1",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "gulp": "^3.9.1",
+    "jquery": "^3.1.0",
+    "laravel-elixir": "^6.0.0-16",
+    "laravel-elixir-browsersync-official": "^1.0.0",
+    "laravel-elixir-vue-2": "^0.3.0",
+    "laravel-elixir-webpack-official": "1.0.8",
+    "lodash": "^4.16.2",
+    "node-sass": "^4.6.0",
+    "vue": "^2.5.3",
+    "vue-resource": "^1.0.3",
+    "vue-template-compiler": "^2.5.3"
+  },
+  "dependencies": {
+    "fastclick": "^1.0.6",
+    "font-awesome": "^4.7.0",
+    "laravel-elixir-env": "^1.0.0",
+    "moment": "^2.19.1",
+    "socket.io": "^2.2.0",
+    "vue-select": "^2.5.0",
+    "vue-sweetalert": "^0.1.18",
+    "vuejs-datetimepicker": "^1.1.11"
+  }
+}

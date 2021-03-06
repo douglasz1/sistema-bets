@@ -1,0 +1,100 @@
+$laranja: rgb(245, 134, 52);
+$verde: rgb(57, 179, 74);
+$text-color: #636b6f;
+
+.titulo-secao {
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin-top: 0;
+  padding-bottom: 5px;
+  border-bottom: solid 3px $laranja;
+  text-transform: uppercase;
+}
+
+.lista-apostas {
+  .aposta {
+    border-bottom: solid 1px lighten(darkgray, 20%);
+  }
+}
+
+.lista-partidas {
+
+  .lista-partidas--liga {
+    margin-bottom: 20px;
+  }
+
+  .lista-partidas--liga h2 {
+    margin: 0;
+    background-color: $laranja;
+    color: #FFFFFF;
+    padding: 7px 10px;
+    font-weight: bold;
+    font-size: 2.2rem;
+  }
+
+  h4 {
+    font-size: 1.8rem;
+    font-weight: bold;
+    //border-bottom: solid 1px lighten(darkgray, 20%);
+    padding: 0;
+
+    small {
+      font-weight: bold;
+      color: darken(lightskyblue, 30%);
+      font-style: italic;
+    }
+  }
+
+  span.disabled {
+    cursor: default;
+  }
+
+  .lista-partidas--partida {
+    margin-bottom: 5px;
+
+    &:after {
+      display: block;
+      border: solid 1px lighten(darkgray, 20%);
+      margin: 0 15px;
+    }
+  }
+
+}
+
+.lista-ligas-principais {
+  list-style-type: none;
+  padding: 0;
+  margin: 0 0 20px;
+
+  a {
+    padding: 3px 0;
+    margin: 0;
+    border-bottom: solid 1px lighten(darkgray, 20%);
+    display: block;
+    color: $text-color;
+    text-decoration: none;
+
+    &:hover, &:active {
+      color: darken($text-color, 30%);
+    }
+  }
+}
+
+.mais-cotacoes {
+  margin-bottom: 30px;
+
+  .cotacoes-titulo {
+    text-align: left;
+    //margin: 0;
+  }
+
+  .list-group-item {
+    text-align: right;
+    padding: 5px 15px;
+  }
+
+  .list-group-header {
+    display: table;
+    width: 100%;
+  }
+}

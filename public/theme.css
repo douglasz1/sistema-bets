@@ -1,0 +1,32 @@
+:root{
+    --main-header-color: #273238;
+    --background-color: #546e7a;
+    --background-menu-color:#455a64;
+    --background-menu-light-color: #38474f;
+    --sport-list-color: #273238;
+    --sport-img-opacity: 0.8;
+    --sport-img-gray-scale: 0;
+
+    --primary-text-color: #ffffff;
+    --secondary-text-color: #eda016;
+    --tertiary-text-color: #333333;
+    --quaternary-text-color: #181818;
+
+    --btn-primary-color:#273238;
+    --btn-primary-color-side-bar-hover: #273238;
+
+    --btn-secondary-color:  #eeeeee;
+    --btn-hover-color:  #d1d1d1;
+    --btn-border-color:  #bbb;
+
+    --btn-tertiary-color:  #415f6d;
+
+    --btn-info-color: #5cafde;
+    --btn-info-hover-color: rgba(94, 175, 222, 0.9);
+    --btn-info-hover-color: rgb(77, 147, 187);
+
+    --themed-background-primary-color:#444444;
+
+    --theme-color: #eda016;
+    --other-quotes-color: #5ccdde;
+}

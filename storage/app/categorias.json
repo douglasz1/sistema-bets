@@ -1,0 +1,2060 @@
+[
+  {
+    "mercado_descricao": "Vencedor da partida",
+    "mercado": "full_time_result",
+    "palpite_descricao": "Casa",
+    "palpite": "1"
+  },
+  {
+    "mercado_descricao": "Vencedor da partida",
+    "mercado": "full_time_result",
+    "palpite_descricao": "Empate",
+    "palpite": "X"
+  },
+  {
+    "mercado_descricao": "Vencedor da partida",
+    "mercado": "full_time_result",
+    "palpite_descricao": "Fora",
+    "palpite": "2"
+  },
+  {
+    "mercado_descricao": "Ambas marcam",
+    "mercado": "both_teams_to_score",
+    "palpite_descricao": "Ambas marcam",
+    "palpite": "yes"
+  },
+  {
+    "mercado_descricao": "Ambas marcam",
+    "mercado": "both_teams_to_score",
+    "palpite_descricao": "Apenas uma marca",
+    "palpite": "no"
+  },
+  {
+    "mercado_descricao": "1º tempo - Vencedor",
+    "mercado": "half_time_result",
+    "palpite_descricao": "Casa (1º tempo)",
+    "palpite": "1"
+  },
+  {
+    "mercado_descricao": "1º tempo - Vencedor",
+    "mercado": "half_time_result",
+    "palpite_descricao": "Empate (1º tempo)",
+    "palpite": "X"
+  },
+  {
+    "mercado_descricao": "1º tempo - Vencedor",
+    "mercado": "half_time_result",
+    "palpite_descricao": "Fora (1º tempo)",
+    "palpite": "2"
+  },
+  {
+    "mercado_descricao": "2º tempo - Vencedor",
+    "mercado": "2nd_half_result",
+    "palpite_descricao": "Casa (2º tempo)",
+    "palpite": "1"
+  },
+  {
+    "mercado_descricao": "2º tempo - Vencedor",
+    "mercado": "2nd_half_result",
+    "palpite_descricao": "Empate (2º tempo)",
+    "palpite": "X"
+  },
+  {
+    "mercado_descricao": "2º tempo - Vencedor",
+    "mercado": "2nd_half_result",
+    "palpite_descricao": "Fora (2º tempo)",
+    "palpite": "2"
+  },
+  {
+    "mercado_descricao": "Vence ao intervalo / Vence ao final do jogo",
+    "mercado": "half_time_full_time",
+    "palpite_descricao": "Casa (1º tempo) / Casa (partida)",
+    "palpite": "1 - 1"
+  },
+  {
+    "mercado_descricao": "Vence ao intervalo / Vence ao final do jogo",
+    "mercado": "half_time_full_time",
+    "palpite_descricao": "Casa (1º tempo) / Empate (partida)",
+    "palpite": "1 - X"
+  },
+  {
+    "mercado_descricao": "Vence ao intervalo / Vence ao final do jogo",
+    "mercado": "half_time_full_time",
+    "palpite_descricao": "Casa (1º tempo) / Fora (partida)",
+    "palpite": "1 - 2"
+  },
+  {
+    "mercado_descricao": "Vence ao intervalo / Vence ao final do jogo",
+    "mercado": "half_time_full_time",
+    "palpite_descricao": "Empate (1º tempo) / Casa (partida)",
+    "palpite": "X - 1"
+  },
+  {
+    "mercado_descricao": "Vence ao intervalo / Vence ao final do jogo",
+    "mercado": "half_time_full_time",
+    "palpite_descricao": "Empate (1º tempo) / Empate (partida)",
+    "palpite": "X - X"
+  },
+  {
+    "mercado_descricao": "Vence ao intervalo / Vence ao final do jogo",
+    "mercado": "half_time_full_time",
+    "palpite_descricao": "Empate (1º tempo) / Fora (partida)",
+    "palpite": "X - 2"
+  },
+  {
+    "mercado_descricao": "Vence ao intervalo / Vence ao final do jogo",
+    "mercado": "half_time_full_time",
+    "palpite_descricao": "Fora (1º tempo) / Casa (partida)",
+    "palpite": "2 - 1"
+  },
+  {
+    "mercado_descricao": "Vence ao intervalo / Vence ao final do jogo",
+    "mercado": "half_time_full_time",
+    "palpite_descricao": "Fora (1º tempo) / Empate (partida)",
+    "palpite": "2 - X"
+  },
+  {
+    "mercado_descricao": "Vence ao intervalo / Vence ao final do jogo",
+    "mercado": "half_time_full_time",
+    "palpite_descricao": "Fora (1º tempo) / Fora (partida)",
+    "palpite": "2 - 2"
+  },
+  {
+    "mercado_descricao": "Vencedor / Ambas marcam",
+    "mercado": "result_both_teams_to_score",
+    "palpite_descricao": "Casa ganha e ambas marcam",
+    "palpite": "1 & yes"
+  },
+  {
+    "mercado_descricao": "Vencedor / Ambas marcam",
+    "mercado": "result_both_teams_to_score",
+    "palpite_descricao": "Casa ganha e fora não marca",
+    "palpite": "1 & no"
+  },
+  {
+    "mercado_descricao": "Vencedor / Ambas marcam",
+    "mercado": "result_both_teams_to_score",
+    "palpite_descricao": "Fora ganha e ambas marcam",
+    "palpite": "2 & yes"
+  },
+  {
+    "mercado_descricao": "Vencedor / Ambas marcam",
+    "mercado": "result_both_teams_to_score",
+    "palpite_descricao": "Fora ganha e casa não marca",
+    "palpite": "2 & no"
+  },
+  {
+    "mercado_descricao": "Vencedor / Ambas marcam",
+    "mercado": "result_both_teams_to_score",
+    "palpite_descricao": "Empate e ambas marcam",
+    "palpite": "X & yes"
+  },
+  {
+    "mercado_descricao": "Vencedor / Ambas marcam",
+    "mercado": "result_both_teams_to_score",
+    "palpite_descricao": "Empate e nenhuma equipe marca",
+    "palpite": "X & no"
+  },
+  {
+    "mercado_descricao": "Dupla chance",
+    "mercado": "double_chance",
+    "palpite_descricao": "Casa ou Empate",
+    "palpite": "1X"
+  },
+  {
+    "mercado_descricao": "Dupla chance",
+    "mercado": "double_chance",
+    "palpite_descricao": "Fora ou Empate",
+    "palpite": "X2"
+  },
+  {
+    "mercado_descricao": "Dupla chance",
+    "mercado": "double_chance",
+    "palpite_descricao": "Casa ou Fora",
+    "palpite": "12"
+  },
+  {
+    "mercado_descricao": "1º tempo - Dupla chance",
+    "mercado": "half_time_double_chance",
+    "palpite_descricao": "Casa ou Empate (1º tempo)",
+    "palpite": "1X"
+  },
+  {
+    "mercado_descricao": "1º tempo - Dupla chance",
+    "mercado": "half_time_double_chance",
+    "palpite_descricao": "Fora ou Empate (1º tempo)",
+    "palpite": "X2"
+  },
+  {
+    "mercado_descricao": "1º tempo - Dupla chance",
+    "mercado": "half_time_double_chance",
+    "palpite_descricao": "Casa ou Fora (1º tempo)",
+    "palpite": "12"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 0-0",
+    "palpite": "0-0"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 0-1",
+    "palpite": "0-1"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 0-2",
+    "palpite": "0-2"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 0-3",
+    "palpite": "0-3"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 0-4",
+    "palpite": "0-4"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 0-5",
+    "palpite": "0-5"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 0-6",
+    "palpite": "0-6"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 0-7",
+    "palpite": "0-7"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 0-8",
+    "palpite": "0-8"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 0-9",
+    "palpite": "0-9"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 0-10",
+    "palpite": "0-10"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 1-0",
+    "palpite": "1-0"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 0-11",
+    "palpite": "0-11"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 1-1",
+    "palpite": "1-1"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 1-2",
+    "palpite": "1-2"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 1-3",
+    "palpite": "1-3"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 1-4",
+    "palpite": "1-4"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 1-5",
+    "palpite": "1-5"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 1-6",
+    "palpite": "1-6"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 1-7",
+    "palpite": "1-7"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 1-8",
+    "palpite": "1-8"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 1-9",
+    "palpite": "1-9"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 2-0",
+    "palpite": "2-0"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 2-1",
+    "palpite": "2-1"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 2-2",
+    "palpite": "2-2"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 2-3",
+    "palpite": "2-3"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 2-4",
+    "palpite": "2-4"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 2-5",
+    "palpite": "2-5"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 2-6",
+    "palpite": "2-6"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 2-7",
+    "palpite": "2-7"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 2-8",
+    "palpite": "2-8"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 3-0",
+    "palpite": "3-0"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 3-1",
+    "palpite": "3-1"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 3-2",
+    "palpite": "3-2"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 3-3",
+    "palpite": "3-3"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 3-4",
+    "palpite": "3-4"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 3-5",
+    "palpite": "3-5"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 3-6",
+    "palpite": "3-6"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 4-0",
+    "palpite": "4-0"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 4-1",
+    "palpite": "4-1"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 4-2",
+    "palpite": "4-2"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 4-3",
+    "palpite": "4-3"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 4-4",
+    "palpite": "4-4"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 4-5",
+    "palpite": "4-5"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 5-0",
+    "palpite": "5-0"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 5-1",
+    "palpite": "5-1"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 5-2",
+    "palpite": "5-2"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 5-3",
+    "palpite": "5-3"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 5-4",
+    "palpite": "5-4"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 6-0",
+    "palpite": "6-0"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 6-1",
+    "palpite": "6-1"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 6-2",
+    "palpite": "6-2"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 6-3",
+    "palpite": "6-3"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 7-0",
+    "palpite": "7-0"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 7-1",
+    "palpite": "7-1"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 7-2",
+    "palpite": "7-2"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 7-3",
+    "palpite": "7-3"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 8-0",
+    "palpite": "8-0"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 8-1",
+    "palpite": "8-1"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 8-2",
+    "palpite": "8-2"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 9-0",
+    "palpite": "9-0"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 9-1",
+    "palpite": "9-1"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 9-2",
+    "palpite": "9-2"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 10-0",
+    "palpite": "10-0"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 10-1",
+    "palpite": "10-1"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 10-2",
+    "palpite": "10-2"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 1-10",
+    "palpite": "1-10"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 11-0",
+    "palpite": "11-0"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 11-1",
+    "palpite": "11-1"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 12-0",
+    "palpite": "12-0"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 12-1",
+    "palpite": "12-1"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 13-0",
+    "palpite": "13-0"
+  },
+  {
+    "mercado_descricao": "Placar exato",
+    "mercado": "correct_score",
+    "palpite_descricao": "Placar 14-0",
+    "palpite": "14-0"
+  },
+  {
+    "mercado_descricao": "1º tempo - Placar exato",
+    "mercado": "half_time_correct_score",
+    "palpite_descricao": "Placar 0-0 (1º tempo)",
+    "palpite": "0-0"
+  },
+  {
+    "mercado_descricao": "1º tempo - Placar exato",
+    "mercado": "half_time_correct_score",
+    "palpite_descricao": "Placar 0-1 (1º tempo)",
+    "palpite": "0-1"
+  },
+  {
+    "mercado_descricao": "1º tempo - Placar exato",
+    "mercado": "half_time_correct_score",
+    "palpite_descricao": "Placar 0-2 (1º tempo)",
+    "palpite": "0-2"
+  },
+  {
+    "mercado_descricao": "1º tempo - Placar exato",
+    "mercado": "half_time_correct_score",
+    "palpite_descricao": "Placar 0-3 (1º tempo)",
+    "palpite": "0-3"
+  },
+  {
+    "mercado_descricao": "1º tempo - Placar exato",
+    "mercado": "half_time_correct_score",
+    "palpite_descricao": "Placar 0-4 (1º tempo)",
+    "palpite": "0-4"
+  },
+  {
+    "mercado_descricao": "1º tempo - Placar exato",
+    "mercado": "half_time_correct_score",
+    "palpite_descricao": "Placar 0-5 (1º tempo)",
+    "palpite": "0-5"
+  },
+  {
+    "mercado_descricao": "1º tempo - Placar exato",
+    "mercado": "half_time_correct_score",
+    "palpite_descricao": "Placar 0-6 (1º tempo)",
+    "palpite": "0-6"
+  },
+  {
+    "mercado_descricao": "1º tempo - Placar exato",
+    "mercado": "half_time_correct_score",
+    "palpite_descricao": "Placar 0-7 (1º tempo)",
+    "palpite": "0-7"
+  },
+  {
+    "mercado_descricao": "1º tempo - Placar exato",
+    "mercado": "half_time_correct_score",
+    "palpite_descricao": "Placar 1-0 (1º tempo)",
+    "palpite": "1-0"
+  },
+  {
+    "mercado_descricao": "1º tempo - Placar exato",
+    "mercado": "half_time_correct_score",
+    "palpite_descricao": "Placar 1-1 (1º tempo)",
+    "palpite": "1-1"
+  },
+  {
+    "mercado_descricao": "1º tempo - Placar exato",
+    "mercado": "half_time_correct_score",
+    "palpite_descricao": "Placar 1-2 (1º tempo)",
+    "palpite": "1-2"
+  },
+  {
+    "mercado_descricao": "1º tempo - Placar exato",
+    "mercado": "half_time_correct_score",
+    "palpite_descricao": "Placar 1-3 (1º tempo)",
+    "palpite": "1-3"
+  },
+  {
+    "mercado_descricao": "1º tempo - Placar exato",
+    "mercado": "half_time_correct_score",
+    "palpite_descricao": "Placar 1-4 (1º tempo)",
+    "palpite": "1-4"
+  },
+  {
+    "mercado_descricao": "1º tempo - Placar exato",
+    "mercado": "half_time_correct_score",
+    "palpite_descricao": "Placar 1-5 (1º tempo)",
+    "palpite": "1-5"
+  },
+  {
+    "mercado_descricao": "1º tempo - Placar exato",
+    "mercado": "half_time_correct_score",
+    "palpite_descricao": "Placar 1-6 (1º tempo)",
+    "palpite": "1-6"
+  },
+  {
+    "mercado_descricao": "1º tempo - Placar exato",
+    "mercado": "half_time_correct_score",
+    "palpite_descricao": "Placar 2-0 (1º tempo)",
+    "palpite": "2-0"
+  },
+  {
+    "mercado_descricao": "1º tempo - Placar exato",
+    "mercado": "half_time_correct_score",
+    "palpite_descricao": "Placar 2-1 (1º tempo)",
+    "palpite": "2-1"
+  },
+  {
+    "mercado_descricao": "1º tempo - Placar exato",
+    "mercado": "half_time_correct_score",
+    "palpite_descricao": "Placar 2-2 (1º tempo)",
+    "palpite": "2-2"
+  },
+  {
+    "mercado_descricao": "1º tempo - Placar exato",
+    "mercado": "half_time_correct_score",
+    "palpite_descricao": "Placar 2-3 (1º tempo)",
+    "palpite": "2-3"
+  },
+  {
+    "mercado_descricao": "1º tempo - Placar exato",
+    "mercado": "half_time_correct_score",
+    "palpite_descricao": "Placar 2-4 (1º tempo)",
+    "palpite": "2-4"
+  },
+  {
+    "mercado_descricao": "1º tempo - Placar exato",
+    "mercado": "half_time_correct_score",
+    "palpite_descricao": "Placar 3-0 (1º tempo)",
+    "palpite": "3-0"
+  },
+  {
+    "mercado_descricao": "1º tempo - Placar exato",
+    "mercado": "half_time_correct_score",
+    "palpite_descricao": "Placar 3-1 (1º tempo)",
+    "palpite": "3-1"
+  },
+  {
+    "mercado_descricao": "1º tempo - Placar exato",
+    "mercado": "half_time_correct_score",
+    "palpite_descricao": "Placar 3-2 (1º tempo)",
+    "palpite": "3-2"
+  },
+  {
+    "mercado_descricao": "1º tempo - Placar exato",
+    "mercado": "half_time_correct_score",
+    "palpite_descricao": "Placar 3-3 (1º tempo)",
+    "palpite": "3-3"
+  },
+  {
+    "mercado_descricao": "1º tempo - Placar exato",
+    "mercado": "half_time_correct_score",
+    "palpite_descricao": "Placar 4-0 (1º tempo)",
+    "palpite": "4-0"
+  },
+  {
+    "mercado_descricao": "1º tempo - Placar exato",
+    "mercado": "half_time_correct_score",
+    "palpite_descricao": "Placar 4-1 (1º tempo)",
+    "palpite": "4-1"
+  },
+  {
+    "mercado_descricao": "1º tempo - Placar exato",
+    "mercado": "half_time_correct_score",
+    "palpite_descricao": "Placar 4-2 (1º tempo)",
+    "palpite": "4-2"
+  },
+  {
+    "mercado_descricao": "1º tempo - Placar exato",
+    "mercado": "half_time_correct_score",
+    "palpite_descricao": "Placar 5-0 (1º tempo)",
+    "palpite": "5-0"
+  },
+  {
+    "mercado_descricao": "1º tempo - Placar exato",
+    "mercado": "half_time_correct_score",
+    "palpite_descricao": "Placar 5-1 (1º tempo)",
+    "palpite": "5-1"
+  },
+  {
+    "mercado_descricao": "1º tempo - Placar exato",
+    "mercado": "half_time_correct_score",
+    "palpite_descricao": "Placar 6-0 (1º tempo)",
+    "palpite": "6-0"
+  },
+  {
+    "mercado_descricao": "1º tempo - Placar exato",
+    "mercado": "half_time_correct_score",
+    "palpite_descricao": "Placar 6-1 (1º tempo)",
+    "palpite": "6-1"
+  },
+  {
+    "mercado_descricao": "1º tempo - Placar exato",
+    "mercado": "half_time_correct_score",
+    "palpite_descricao": "Placar 7-0 (1º tempo)",
+    "palpite": "7-0"
+  },
+  {
+    "mercado_descricao": "1º tempo - Placar exato",
+    "mercado": "half_time_correct_score",
+    "palpite_descricao": "Placar 7-1 (1º tempo)",
+    "palpite": "7-1"
+  },
+  {
+    "mercado_descricao": "1º tempo - Placar exato",
+    "mercado": "half_time_correct_score",
+    "palpite_descricao": "Placar 8-0 (1º tempo)",
+    "palpite": "8-0"
+  },
+  {
+    "mercado_descricao": "Total de gols par ou ímpar",
+    "mercado": "goals_odd_even",
+    "palpite_descricao": "Total de gols par",
+    "palpite": "even"
+  },
+  {
+    "mercado_descricao": "Total de gols par ou ímpar",
+    "mercado": "goals_odd_even",
+    "palpite_descricao": "Total de gols ímpar",
+    "palpite": "odd"
+  },
+  {
+    "mercado_descricao": "1º tempo - Total de gols par ou ímpar",
+    "mercado": "1st_half_goals_odd_even",
+    "palpite_descricao": "Total de gols par (1º tempo)",
+    "palpite": "even"
+  },
+  {
+    "mercado_descricao": "1º tempo - Total de gols par ou ímpar",
+    "mercado": "1st_half_goals_odd_even",
+    "palpite_descricao": "Total de gols ímpar (1º tempo)",
+    "palpite": "odd"
+  },
+  {
+    "mercado_descricao": "2º tempo - Total de gols par ou ímpar",
+    "mercado": "2nd_half_goals_odd_even",
+    "palpite_descricao": "Total de gols par (2º tempo)",
+    "palpite": "even"
+  },
+  {
+    "mercado_descricao": "2º tempo - Total de gols par ou ímpar",
+    "mercado": "2nd_half_goals_odd_even",
+    "palpite_descricao": "Total de gols ímpar (2º tempo)",
+    "palpite": "odd"
+  },
+  {
+    "mercado_descricao": "Gols Mais/Menos",
+    "mercado": "goals_over_under",
+    "palpite_descricao": "Mais de 0.5",
+    "palpite": "over 1"
+  },
+  {
+    "mercado_descricao": "Gols Mais/Menos",
+    "mercado": "goals_over_under",
+    "palpite_descricao": "Mais de 1.5",
+    "palpite": "over 2"
+  },
+  {
+    "mercado_descricao": "Gols Mais/Menos",
+    "mercado": "goals_over_under",
+    "palpite_descricao": "Mais de 2.5",
+    "palpite": "over 3"
+  },
+  {
+    "mercado_descricao": "Gols Mais/Menos",
+    "mercado": "goals_over_under",
+    "palpite_descricao": "Mais de 3.5",
+    "palpite": "over 4"
+  },
+  {
+    "mercado_descricao": "Gols Mais/Menos",
+    "mercado": "goals_over_under",
+    "palpite_descricao": "Mais de 4.5",
+    "palpite": "over 5"
+  },
+  {
+    "mercado_descricao": "Gols Mais/Menos",
+    "mercado": "goals_over_under",
+    "palpite_descricao": "Mais de 5.5",
+    "palpite": "over 6"
+  },
+  {
+    "mercado_descricao": "Gols Mais/Menos",
+    "mercado": "goals_over_under",
+    "palpite_descricao": "Mais de 6.5",
+    "palpite": "over 7"
+  },
+  {
+    "mercado_descricao": "Gols Mais/Menos",
+    "mercado": "goals_over_under",
+    "palpite_descricao": "Mais de 7.5",
+    "palpite": "over 8"
+  },
+  {
+    "mercado_descricao": "Gols Mais/Menos",
+    "mercado": "goals_over_under",
+    "palpite_descricao": "Mais de 8.5",
+    "palpite": "over 9"
+  },
+  {
+    "mercado_descricao": "Gols Mais/Menos",
+    "mercado": "goals_over_under",
+    "palpite_descricao": "Mais de 9.5",
+    "palpite": "over 10"
+  },
+  {
+    "mercado_descricao": "Gols Mais/Menos",
+    "mercado": "goals_over_under",
+    "palpite_descricao": "Menos de 0.5",
+    "palpite": "under 0"
+  },
+  {
+    "mercado_descricao": "Gols Mais/Menos",
+    "mercado": "goals_over_under",
+    "palpite_descricao": "Mais de 10.5",
+    "palpite": "over 11"
+  },
+  {
+    "mercado_descricao": "Gols Mais/Menos",
+    "mercado": "goals_over_under",
+    "palpite_descricao": "Menos de 1.5",
+    "palpite": "under 1"
+  },
+  {
+    "mercado_descricao": "Gols Mais/Menos",
+    "mercado": "goals_over_under",
+    "palpite_descricao": "Menos de 2.5",
+    "palpite": "under 2"
+  },
+  {
+    "mercado_descricao": "Gols Mais/Menos",
+    "mercado": "goals_over_under",
+    "palpite_descricao": "Menos de 3.5",
+    "palpite": "under 3"
+  },
+  {
+    "mercado_descricao": "Gols Mais/Menos",
+    "mercado": "goals_over_under",
+    "palpite_descricao": "Menos de 4.5",
+    "palpite": "under 4"
+  },
+  {
+    "mercado_descricao": "Gols Mais/Menos",
+    "mercado": "goals_over_under",
+    "palpite_descricao": "Menos de 5.5",
+    "palpite": "under 5"
+  },
+  {
+    "mercado_descricao": "Gols Mais/Menos",
+    "mercado": "goals_over_under",
+    "palpite_descricao": "Menos de 6.5",
+    "palpite": "under 6"
+  },
+  {
+    "mercado_descricao": "Gols Mais/Menos",
+    "mercado": "goals_over_under",
+    "palpite_descricao": "Menos de 7.5",
+    "palpite": "under 7"
+  },
+  {
+    "mercado_descricao": "Gols Mais/Menos",
+    "mercado": "goals_over_under",
+    "palpite_descricao": "Menos de 8.5",
+    "palpite": "under 8"
+  },
+  {
+    "mercado_descricao": "Gols Mais/Menos",
+    "mercado": "goals_over_under",
+    "palpite_descricao": "Menos de 9.5",
+    "palpite": "under 9"
+  },
+  {
+    "mercado_descricao": "Gols Mais/Menos",
+    "mercado": "goals_over_under",
+    "palpite_descricao": "Menos de 10.5",
+    "palpite": "under 10"
+  },
+  {
+    "mercado_descricao": "1º tempo - Gols Mais/Menos",
+    "mercado": "first_half_goals",
+    "palpite_descricao": "Mais de 0.5 (1º tempo)",
+    "palpite": "over 1"
+  },
+  {
+    "mercado_descricao": "1º tempo - Gols Mais/Menos",
+    "mercado": "first_half_goals",
+    "palpite_descricao": "Mais de 1.5 (1º tempo)",
+    "palpite": "over 2"
+  },
+  {
+    "mercado_descricao": "1º tempo - Gols Mais/Menos",
+    "mercado": "first_half_goals",
+    "palpite_descricao": "Mais de 2.5 (1º tempo)",
+    "palpite": "over 3"
+  },
+  {
+    "mercado_descricao": "1º tempo - Gols Mais/Menos",
+    "mercado": "first_half_goals",
+    "palpite_descricao": "Mais de 3.5 (1º tempo)",
+    "palpite": "over 4"
+  },
+  {
+    "mercado_descricao": "1º tempo - Gols Mais/Menos",
+    "mercado": "first_half_goals",
+    "palpite_descricao": "Mais de 4.5 (1º tempo)",
+    "palpite": "over 5"
+  },
+  {
+    "mercado_descricao": "1º tempo - Gols Mais/Menos",
+    "mercado": "first_half_goals",
+    "palpite_descricao": "Mais de 5.5 (1º tempo)",
+    "palpite": "over 6"
+  },
+  {
+    "mercado_descricao": "1º tempo - Gols Mais/Menos",
+    "mercado": "first_half_goals",
+    "palpite_descricao": "Menos de 0.5 (1º tempo)",
+    "palpite": "under 0"
+  },
+  {
+    "mercado_descricao": "1º tempo - Gols Mais/Menos",
+    "mercado": "first_half_goals",
+    "palpite_descricao": "Menos de 1.5 (1º tempo)",
+    "palpite": "under 1"
+  },
+  {
+    "mercado_descricao": "1º tempo - Gols Mais/Menos",
+    "mercado": "first_half_goals",
+    "palpite_descricao": "Menos de 2.5 (1º tempo)",
+    "palpite": "under 2"
+  },
+  {
+    "mercado_descricao": "1º tempo - Gols Mais/Menos",
+    "mercado": "first_half_goals",
+    "palpite_descricao": "Menos de 3.5 (1º tempo)",
+    "palpite": "under 3"
+  },
+  {
+    "mercado_descricao": "1º tempo - Gols Mais/Menos",
+    "mercado": "first_half_goals",
+    "palpite_descricao": "Menos de 4.5 (1º tempo)",
+    "palpite": "under 4"
+  },
+  {
+    "mercado_descricao": "1º tempo - Gols Mais/Menos",
+    "mercado": "first_half_goals",
+    "palpite_descricao": "Menos de 5.5 (1º tempo)",
+    "palpite": "under 5"
+  },
+  {
+    "mercado_descricao": "2º tempo - Gols Mais/Menos",
+    "mercado": "2nd_half_goals",
+    "palpite_descricao": "Mais de 0.5 (2º tempo)",
+    "palpite": "over 1"
+  },
+  {
+    "mercado_descricao": "2º tempo - Gols Mais/Menos",
+    "mercado": "2nd_half_goals",
+    "palpite_descricao": "Mais de 1.5 (2º tempo)",
+    "palpite": "over 2"
+  },
+  {
+    "mercado_descricao": "2º tempo - Gols Mais/Menos",
+    "mercado": "2nd_half_goals",
+    "palpite_descricao": "Mais de 2.5 (2º tempo)",
+    "palpite": "over 3"
+  },
+  {
+    "mercado_descricao": "2º tempo - Gols Mais/Menos",
+    "mercado": "2nd_half_goals",
+    "palpite_descricao": "Mais de 3.5 (2º tempo)",
+    "palpite": "over 4"
+  },
+  {
+    "mercado_descricao": "2º tempo - Gols Mais/Menos",
+    "mercado": "2nd_half_goals",
+    "palpite_descricao": "Mais de 4.5 (2º tempo)",
+    "palpite": "over 5"
+  },
+  {
+    "mercado_descricao": "2º tempo - Gols Mais/Menos",
+    "mercado": "2nd_half_goals",
+    "palpite_descricao": "Mais de 5.5 (2º tempo)",
+    "palpite": "over 6"
+  },
+  {
+    "mercado_descricao": "2º tempo - Gols Mais/Menos",
+    "mercado": "2nd_half_goals",
+    "palpite_descricao": "Mais de 6.5 (2º tempo)",
+    "palpite": "over 7"
+  },
+  {
+    "mercado_descricao": "2º tempo - Gols Mais/Menos",
+    "mercado": "2nd_half_goals",
+    "palpite_descricao": "Menos de 0.5 (2º tempo)",
+    "palpite": "under 0"
+  },
+  {
+    "mercado_descricao": "2º tempo - Gols Mais/Menos",
+    "mercado": "2nd_half_goals",
+    "palpite_descricao": "Menos de 1.5 (2º tempo)",
+    "palpite": "under 1"
+  },
+  {
+    "mercado_descricao": "2º tempo - Gols Mais/Menos",
+    "mercado": "2nd_half_goals",
+    "palpite_descricao": "Menos de 2.5 (2º tempo)",
+    "palpite": "under 2"
+  },
+  {
+    "mercado_descricao": "2º tempo - Gols Mais/Menos",
+    "mercado": "2nd_half_goals",
+    "palpite_descricao": "Menos de 3.5 (2º tempo)",
+    "palpite": "under 3"
+  },
+  {
+    "mercado_descricao": "2º tempo - Gols Mais/Menos",
+    "mercado": "2nd_half_goals",
+    "palpite_descricao": "Menos de 4.5 (2º tempo)",
+    "palpite": "under 4"
+  },
+  {
+    "mercado_descricao": "2º tempo - Gols Mais/Menos",
+    "mercado": "2nd_half_goals",
+    "palpite_descricao": "Menos de 5.5 (2º tempo)",
+    "palpite": "under 5"
+  },
+  {
+    "mercado_descricao": "2º tempo - Gols Mais/Menos",
+    "mercado": "2nd_half_goals",
+    "palpite_descricao": "Menos de 6.5 (2º tempo)",
+    "palpite": "under 6"
+  },
+  {
+    "mercado_descricao": "Handicap",
+    "mercado": "handicap",
+    "palpite_descricao": "Casa -1.5",
+    "palpite": "home -1.5"
+  },
+  {
+    "mercado_descricao": "Handicap",
+    "mercado": "handicap",
+    "palpite_descricao": "Fora -1.5",
+    "palpite": "away -1.5"
+  },
+  {
+    "mercado_descricao": "Total exato de gols",
+    "mercado": "exact_total_goals",
+    "palpite_descricao": "Total de 1 gol(s)",
+    "palpite": "1"
+  },
+  {
+    "mercado_descricao": "Total exato de gols",
+    "mercado": "exact_total_goals",
+    "palpite_descricao": "Total de 2 gol(s)",
+    "palpite": "2"
+  },
+  {
+    "mercado_descricao": "Total exato de gols",
+    "mercado": "exact_total_goals",
+    "palpite_descricao": "Total de 3 gol(s)",
+    "palpite": "3"
+  },
+  {
+    "mercado_descricao": "Total exato de gols",
+    "mercado": "exact_total_goals",
+    "palpite_descricao": "Total de 4 gol(s)",
+    "palpite": "4"
+  },
+  {
+    "mercado_descricao": "Total exato de gols",
+    "mercado": "exact_total_goals",
+    "palpite_descricao": "Total de 5 gol(s)",
+    "palpite": "5"
+  },
+  {
+    "mercado_descricao": "Total exato de gols",
+    "mercado": "exact_total_goals",
+    "palpite_descricao": "Total de 6 gol(s)",
+    "palpite": "6"
+  },
+  {
+    "mercado_descricao": "Total exato de gols",
+    "mercado": "exact_total_goals",
+    "palpite_descricao": "Total de 7+ gol(s)",
+    "palpite": "7+"
+  },
+  {
+    "mercado_descricao": "1º tempo - Ambas marcam",
+    "mercado": "both_teams_to_score_in_1st_half",
+    "palpite_descricao": "Ambas marcam (1º tempo)",
+    "palpite": "yes"
+  },
+  {
+    "mercado_descricao": "1º tempo - Ambas marcam",
+    "mercado": "both_teams_to_score_in_1st_half",
+    "palpite_descricao": "Apenas uma marca (1º tempo)",
+    "palpite": "no"
+  },
+  {
+    "mercado_descricao": "2º tempo - Ambas marcam",
+    "mercado": "both_teams_to_score_in_2nd_half",
+    "palpite_descricao": "Ambas marcam (2º tempo)",
+    "palpite": "yes"
+  },
+  {
+    "mercado_descricao": "2º tempo - Ambas marcam",
+    "mercado": "both_teams_to_score_in_2nd_half",
+    "palpite_descricao": "Apenas uma marca (2º tempo)",
+    "palpite": "no"
+  },
+  {
+    "mercado_descricao": "Tempo com mais gols",
+    "mercado": "half_with_most_goals",
+    "palpite_descricao": "1º tempo com mais gols",
+    "palpite": "1"
+  },
+  {
+    "mercado_descricao": "Tempo com mais gols",
+    "mercado": "half_with_most_goals",
+    "palpite_descricao": "2º tempo com mais gols",
+    "palpite": "2"
+  },
+  {
+    "mercado_descricao": "Tempo com mais gols",
+    "mercado": "half_with_most_goals",
+    "palpite_descricao": "Empate - sem tempo com mais gols",
+    "palpite": "X"
+  },
+  {
+    "mercado_descricao": "Casa - Gols par ou Ímpar",
+    "mercado": "home-team-odd-even-goals",
+    "palpite_descricao": "Casa - Total de gols par",
+    "palpite": "even"
+  },
+  {
+    "mercado_descricao": "Casa - Gols par ou Ímpar",
+    "mercado": "home-team-odd-even-goals",
+    "palpite_descricao": "Casa - Total de gols ímpar",
+    "palpite": "odd"
+  },
+  {
+    "mercado_descricao": "Fora - Gols par ou Ímpar",
+    "mercado": "away-team-odd-even-goals",
+    "palpite_descricao": "Fora - Total de gols par",
+    "palpite": "even"
+  },
+  {
+    "mercado_descricao": "Fora - Gols par ou Ímpar",
+    "mercado": "away-team-odd-even-goals",
+    "palpite_descricao": "Fora - Total de gols ímpar",
+    "palpite": "odd"
+  },
+  {
+    "mercado_descricao": "Equipes que marcam",
+    "mercado": "teams-to-score",
+    "palpite_descricao": "Apenas casa marca",
+    "palpite": "1"
+  },
+  {
+    "mercado_descricao": "Equipes que marcam",
+    "mercado": "teams-to-score",
+    "palpite_descricao": "Apenas fora marca",
+    "palpite": "2"
+  },
+  {
+    "mercado_descricao": "Equipes que marcam",
+    "mercado": "teams-to-score",
+    "palpite_descricao": "Ambas marcam",
+    "palpite": "both"
+  },
+  {
+    "mercado_descricao": "Equipes que marcam",
+    "mercado": "teams-to-score",
+    "palpite_descricao": "Nenhuma marca",
+    "palpite": "no-goal"
+  },
+  {
+    "mercado_descricao": "Casa - Quantidade exata de gols",
+    "mercado": "home-team-exact-goals",
+    "palpite_descricao": "Casa: 0 gol(s)",
+    "palpite": "0"
+  },
+  {
+    "mercado_descricao": "Casa - Quantidade exata de gols",
+    "mercado": "home-team-exact-goals",
+    "palpite_descricao": "Casa: 1 gol(s)",
+    "palpite": "1"
+  },
+  {
+    "mercado_descricao": "Casa - Quantidade exata de gols",
+    "mercado": "home-team-exact-goals",
+    "palpite_descricao": "Casa: 2 gol(s)",
+    "palpite": "2"
+  },
+  {
+    "mercado_descricao": "Casa - Quantidade exata de gols",
+    "mercado": "home-team-exact-goals",
+    "palpite_descricao": "Casa: 3+ gol(s)",
+    "palpite": "3+"
+  },
+  {
+    "mercado_descricao": "Fora - Quantidade exata de gols",
+    "mercado": "away-team-exact-goals",
+    "palpite_descricao": "Fora: 0 gol(s)",
+    "palpite": "0"
+  },
+  {
+    "mercado_descricao": "Fora - Quantidade exata de gols",
+    "mercado": "away-team-exact-goals",
+    "palpite_descricao": "Fora: 1 gol(s)",
+    "palpite": "1"
+  },
+  {
+    "mercado_descricao": "Fora - Quantidade exata de gols",
+    "mercado": "away-team-exact-goals",
+    "palpite_descricao": "Fora: 2 gol(s)",
+    "palpite": "2"
+  },
+  {
+    "mercado_descricao": "Fora - Quantidade exata de gols",
+    "mercado": "away-team-exact-goals",
+    "palpite_descricao": "Fora: 3+ gol(s)",
+    "palpite": "3+"
+  },
+  {
+    "mercado_descricao": "1º tempo - Quantidade exata de gols",
+    "mercado": "exact-1st-half-goals",
+    "palpite_descricao": "0 gol(s) (1º tempo)",
+    "palpite": "0"
+  },
+  {
+    "mercado_descricao": "1º tempo - Quantidade exata de gols",
+    "mercado": "exact-1st-half-goals",
+    "palpite_descricao": "1 gol(s) (1º tempo)",
+    "palpite": "1"
+  },
+  {
+    "mercado_descricao": "1º tempo - Quantidade exata de gols",
+    "mercado": "exact-1st-half-goals",
+    "palpite_descricao": "2 gol(s) (1º tempo)",
+    "palpite": "2"
+  },
+  {
+    "mercado_descricao": "1º tempo - Quantidade exata de gols",
+    "mercado": "exact-1st-half-goals",
+    "palpite_descricao": "3 gol(s) (1º tempo)",
+    "palpite": "3"
+  },
+  {
+    "mercado_descricao": "1º tempo - Quantidade exata de gols",
+    "mercado": "exact-1st-half-goals",
+    "palpite_descricao": "4 gol(s) (1º tempo)",
+    "palpite": "4"
+  },
+  {
+    "mercado_descricao": "1º tempo - Quantidade exata de gols",
+    "mercado": "exact-1st-half-goals",
+    "palpite_descricao": "5+ gol(s) (1º tempo)",
+    "palpite": "5+"
+  },
+  {
+    "mercado_descricao": "2º tempo - Quantidade exata de gols",
+    "mercado": "exact-2nd-half-goals",
+    "palpite_descricao": "0 gol(s) (2º tempo)",
+    "palpite": "0"
+  },
+  {
+    "mercado_descricao": "2º tempo - Quantidade exata de gols",
+    "mercado": "exact-2nd-half-goals",
+    "palpite_descricao": "1 gol(s) (2º tempo)",
+    "palpite": "1"
+  },
+  {
+    "mercado_descricao": "2º tempo - Quantidade exata de gols",
+    "mercado": "exact-2nd-half-goals",
+    "palpite_descricao": "2 gol(s) (2º tempo)",
+    "palpite": "2"
+  },
+  {
+    "mercado_descricao": "2º tempo - Quantidade exata de gols",
+    "mercado": "exact-2nd-half-goals",
+    "palpite_descricao": "3 gol(s) (2º tempo)",
+    "palpite": "3"
+  },
+  {
+    "mercado_descricao": "2º tempo - Quantidade exata de gols",
+    "mercado": "exact-2nd-half-goals",
+    "palpite_descricao": "4 gol(s) (2º tempo)",
+    "palpite": "4"
+  },
+  {
+    "mercado_descricao": "2º tempo - Quantidade exata de gols",
+    "mercado": "exact-2nd-half-goals",
+    "palpite_descricao": "5+ gol(s) (2º tempo)",
+    "palpite": "5+"
+  },
+  {
+    "mercado_descricao": "Resultado / Total de gols",
+    "mercado": "resultado-total-gols",
+    "palpite_descricao": "Casa e Mais de 1.5",
+    "palpite": "1 - over 1.5"
+  },
+  {
+    "mercado_descricao": "Resultado / Total de gols",
+    "mercado": "resultado-total-gols",
+    "palpite_descricao": "Casa e Menos de 1.5",
+    "palpite": "1 - under 1.5"
+  },
+  {
+    "mercado_descricao": "Resultado / Total de gols",
+    "mercado": "resultado-total-gols",
+    "palpite_descricao": "Casa e Mais de 2.5",
+    "palpite": "1 - over 2.5"
+  },
+  {
+    "mercado_descricao": "Resultado / Total de gols",
+    "mercado": "resultado-total-gols",
+    "palpite_descricao": "Casa e Menos de 2.5",
+    "palpite": "1 - under 2.5"
+  },
+  {
+    "mercado_descricao": "Resultado / Total de gols",
+    "mercado": "resultado-total-gols",
+    "palpite_descricao": "Casa e Mais de 3.5",
+    "palpite": "1 - over 3.5"
+  },
+  {
+    "mercado_descricao": "Resultado / Total de gols",
+    "mercado": "resultado-total-gols",
+    "palpite_descricao": "Casa e Menos de 3.5",
+    "palpite": "1 - under 3.5"
+  },
+  {
+    "mercado_descricao": "Resultado / Total de gols",
+    "mercado": "resultado-total-gols",
+    "palpite_descricao": "Casa e Mais de 4.5",
+    "palpite": "1 - over 4.5"
+  },
+  {
+    "mercado_descricao": "Resultado / Total de gols",
+    "mercado": "resultado-total-gols",
+    "palpite_descricao": "Casa e Menos de 4.5",
+    "palpite": "1 - under 4.5"
+  },
+  {
+    "mercado_descricao": "Resultado / Total de gols",
+    "mercado": "resultado-total-gols",
+    "palpite_descricao": "Empate e Mais de 1.5",
+    "palpite": "X - over 1.5"
+  },
+  {
+    "mercado_descricao": "Resultado / Total de gols",
+    "mercado": "resultado-total-gols",
+    "palpite_descricao": "Empate e Menos de 1.5",
+    "palpite": "X - under 1.5"
+  },
+  {
+    "mercado_descricao": "Resultado / Total de gols",
+    "mercado": "resultado-total-gols",
+    "palpite_descricao": "Fora e Mais de 1.5",
+    "palpite": "2 - over 1.5"
+  },
+  {
+    "mercado_descricao": "Resultado / Total de gols",
+    "mercado": "resultado-total-gols",
+    "palpite_descricao": "Fora e Menos de 1.5",
+    "palpite": "2 - under 1.5"
+  },
+  {
+    "mercado_descricao": "Resultado / Total de gols",
+    "mercado": "resultado-total-gols",
+    "palpite_descricao": "Empate e Mais de 2.5",
+    "palpite": "X - over 2.5"
+  },
+  {
+    "mercado_descricao": "Resultado / Total de gols",
+    "mercado": "resultado-total-gols",
+    "palpite_descricao": "Empate e Menos de 2.5",
+    "palpite": "X - under 2.5"
+  },
+  {
+    "mercado_descricao": "Resultado / Total de gols",
+    "mercado": "resultado-total-gols",
+    "palpite_descricao": "Fora e Mais de 2.5",
+    "palpite": "2 - over 2.5"
+  },
+  {
+    "mercado_descricao": "Resultado / Total de gols",
+    "mercado": "resultado-total-gols",
+    "palpite_descricao": "Fora e Menos de 2.5",
+    "palpite": "2 - under 2.5"
+  },
+  {
+    "mercado_descricao": "Resultado / Total de gols",
+    "mercado": "resultado-total-gols",
+    "palpite_descricao": "Empate e Mais de 3.5",
+    "palpite": "X - over 3.5"
+  },
+  {
+    "mercado_descricao": "Resultado / Total de gols",
+    "mercado": "resultado-total-gols",
+    "palpite_descricao": "Empate e Menos de 3.5",
+    "palpite": "X - under 3.5"
+  },
+  {
+    "mercado_descricao": "Resultado / Total de gols",
+    "mercado": "resultado-total-gols",
+    "palpite_descricao": "Fora e Mais de 3.5",
+    "palpite": "2 - over 3.5"
+  },
+  {
+    "mercado_descricao": "Resultado / Total de gols",
+    "mercado": "resultado-total-gols",
+    "palpite_descricao": "Fora e Menos de 3.5",
+    "palpite": "2 - under 3.5"
+  },
+  {
+    "mercado_descricao": "Resultado / Total de gols",
+    "mercado": "resultado-total-gols",
+    "palpite_descricao": "Empate e Mais de 4.5",
+    "palpite": "X - over 4.5"
+  },
+  {
+    "mercado_descricao": "Resultado / Total de gols",
+    "mercado": "resultado-total-gols",
+    "palpite_descricao": "Empate e Menos de 4.5",
+    "palpite": "X - under 4.5"
+  },
+  {
+    "mercado_descricao": "Resultado / Total de gols",
+    "mercado": "resultado-total-gols",
+    "palpite_descricao": "Fora e Mais de 4.5",
+    "palpite": "2 - over 4.5"
+  },
+  {
+    "mercado_descricao": "Resultado / Total de gols",
+    "mercado": "resultado-total-gols",
+    "palpite_descricao": "Fora e Menos de 4.5",
+    "palpite": "2 - under 4.5"
+  },
+  {
+    "mercado_descricao": "1º tempo - Resultado / Ambas Marcam",
+    "mercado": "1o-tempo-resultado-ambas-marcam",
+    "palpite_descricao": "Casa / Ambas marcam (1º tempo)",
+    "palpite": "1 - sim"
+  },
+  {
+    "mercado_descricao": "1º tempo - Resultado / Ambas Marcam",
+    "mercado": "1o-tempo-resultado-ambas-marcam",
+    "palpite_descricao": "Casa / Apenas uma marca (1º tempo)",
+    "palpite": "1 - nao"
+  },
+  {
+    "mercado_descricao": "1º tempo - Resultado / Ambas Marcam",
+    "mercado": "1o-tempo-resultado-ambas-marcam",
+    "palpite_descricao": "Empate / Ambas marcam (1º tempo)",
+    "palpite": "X - sim"
+  },
+  {
+    "mercado_descricao": "1º tempo - Resultado / Ambas Marcam",
+    "mercado": "1o-tempo-resultado-ambas-marcam",
+    "palpite_descricao": "Empate / Ninguém marca (1º tempo)",
+    "palpite": "X - nao"
+  },
+  {
+    "mercado_descricao": "1º tempo - Resultado / Ambas Marcam",
+    "mercado": "1o-tempo-resultado-ambas-marcam",
+    "palpite_descricao": "Fora / Ambas marcam (1º tempo)",
+    "palpite": "2 - sim"
+  },
+  {
+    "mercado_descricao": "1º tempo - Resultado / Ambas Marcam",
+    "mercado": "1o-tempo-resultado-ambas-marcam",
+    "palpite_descricao": "Fora / Apenas uma marca (1º tempo)",
+    "palpite": "2 - nao"
+  },
+  {
+    "mercado_descricao": "1º tempo - Resultado / Total de gols",
+    "mercado": "1o-tempo-resultado-total-gols",
+    "palpite_descricao": "Casa e Mais de 1.5 (1º tempo)",
+    "palpite": "1 - over 1.5"
+  },
+  {
+    "mercado_descricao": "1º tempo - Resultado / Total de gols",
+    "mercado": "1o-tempo-resultado-total-gols",
+    "palpite_descricao": "Casa e Menos de 1.5 (1º tempo)",
+    "palpite": "1 - under 1.5"
+  },
+  {
+    "mercado_descricao": "1º tempo - Resultado / Total de gols",
+    "mercado": "1o-tempo-resultado-total-gols",
+    "palpite_descricao": "Empate e Mais de 1.5 (1º tempo)",
+    "palpite": "X - over 1.5"
+  },
+  {
+    "mercado_descricao": "1º tempo - Resultado / Total de gols",
+    "mercado": "1o-tempo-resultado-total-gols",
+    "palpite_descricao": "Empate e Menos de 1.5 (1º tempo)",
+    "palpite": "X - under 1.5"
+  },
+  {
+    "mercado_descricao": "1º tempo - Resultado / Total de gols",
+    "mercado": "1o-tempo-resultado-total-gols",
+    "palpite_descricao": "Fora e Mais de 1.5 (1º tempo)",
+    "palpite": "2 - over 1.5"
+  },
+  {
+    "mercado_descricao": "1º tempo - Resultado / Total de gols",
+    "mercado": "1o-tempo-resultado-total-gols",
+    "palpite_descricao": "Fora e Menos de 1.5 (1º tempo)",
+    "palpite": "2 - under 1.5"
+  },
+  {
+    "mercado_descricao": "Total de gols / Ambas marcam",
+    "mercado": "total-gols-ambas-marcam",
+    "palpite_descricao": "Mais de 2.5 / Sim",
+    "palpite": "over 2.5 - sim"
+  },
+  {
+    "mercado_descricao": "Total de gols / Ambas marcam",
+    "mercado": "total-gols-ambas-marcam",
+    "palpite_descricao": "Mais de 2.5 / Não",
+    "palpite": "over 2.5 - nao"
+  },
+  {
+    "mercado_descricao": "Total de gols / Ambas marcam",
+    "mercado": "total-gols-ambas-marcam",
+    "palpite_descricao": "Menos de 2.5 / Sim",
+    "palpite": "under 2.5 - sim"
+  },
+  {
+    "mercado_descricao": "Total de gols / Ambas marcam",
+    "mercado": "total-gols-ambas-marcam",
+    "palpite_descricao": "Menos de 2.5 / Não",
+    "palpite": "under 2.5 - nao"
+  },
+  {
+    "mercado_descricao": "Casa - Tempo mais produtivo",
+    "mercado": "casa-tempo-mais-produtivo",
+    "palpite_descricao": "Casa - 1º tempo",
+    "palpite": "1"
+  },
+  {
+    "mercado_descricao": "Casa - Tempo mais produtivo",
+    "mercado": "casa-tempo-mais-produtivo",
+    "palpite_descricao": "Casa - 2º tempo",
+    "palpite": "2"
+  },
+  {
+    "mercado_descricao": "Casa - Tempo mais produtivo",
+    "mercado": "casa-tempo-mais-produtivo",
+    "palpite_descricao": "Casa - Empate",
+    "palpite": "X"
+  },
+  {
+    "mercado_descricao": "Fora - Tempo mais produtivo",
+    "mercado": "fora-tempo-mais-produtivo",
+    "palpite_descricao": "Fora - 1º tempo",
+    "palpite": "1"
+  },
+  {
+    "mercado_descricao": "Fora - Tempo mais produtivo",
+    "mercado": "fora-tempo-mais-produtivo",
+    "palpite_descricao": "Fora - 2º tempo",
+    "palpite": "2"
+  },
+  {
+    "mercado_descricao": "Fora - Tempo mais produtivo",
+    "mercado": "fora-tempo-mais-produtivo",
+    "palpite_descricao": "Fora - Empate",
+    "palpite": "X"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Exatamente 3",
+    "palpite": "exatos 3"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Mais de 3",
+    "palpite": "mais 3"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Menos de 3",
+    "palpite": "menos 3"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Exatamente 4",
+    "palpite": "exatos 4"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Mais de 4",
+    "palpite": "mais 4"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Menos de 4",
+    "palpite": "menos 4"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Exatamente 5",
+    "palpite": "exatos 5"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Mais de 5",
+    "palpite": "mais 5"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Menos de 5",
+    "palpite": "menos 5"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Exatamente 6",
+    "palpite": "exatos 6"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Mais de 6",
+    "palpite": "mais 6"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Menos de 6",
+    "palpite": "menos 6"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Exatamente 7",
+    "palpite": "exatos 7"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Mais de 7",
+    "palpite": "mais 7"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Menos de 7",
+    "palpite": "menos 7"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Exatamente 8",
+    "palpite": "exatos 8"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Mais de 8",
+    "palpite": "mais 8"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Menos de 8",
+    "palpite": "menos 8"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Exatamente 9",
+    "palpite": "exatos 9"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Mais de 9",
+    "palpite": "mais 9"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Menos de 9",
+    "palpite": "menos 9"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Exatamente 10",
+    "palpite": "exatos 10"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Mais de 10",
+    "palpite": "mais 10"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Menos de 10",
+    "palpite": "menos 10"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Exatamente 11",
+    "palpite": "exatos 11"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Mais de 11",
+    "palpite": "mais 11"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Menos de 11",
+    "palpite": "menos 11"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Exatamente 12",
+    "palpite": "exatos 12"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Mais de 12",
+    "palpite": "mais 12"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Menos de 12",
+    "palpite": "menos 12"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Exatamente 13",
+    "palpite": "exatos 13"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Mais de 13",
+    "palpite": "mais 13"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Menos de 13",
+    "palpite": "menos 13"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Exatamente 14",
+    "palpite": "exatos 14"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Mais de 14",
+    "palpite": "mais 14"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Menos de 14",
+    "palpite": "menos 14"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Exatamente 15",
+    "palpite": "exatos 15"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Mais de 15",
+    "palpite": "mais 15"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Menos de 15",
+    "palpite": "menos 15"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Exatamente 16",
+    "palpite": "exatos 16"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Mais de 16",
+    "palpite": "mais 16"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Menos de 16",
+    "palpite": "menos 16"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Exatamente 17",
+    "palpite": "exatos 17"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Mais de 17",
+    "palpite": "mais 17"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Menos de 17",
+    "palpite": "menos 17"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Exatamente 18",
+    "palpite": "exatos 18"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Mais de 18",
+    "palpite": "mais 18"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Menos de 18",
+    "palpite": "menos 18"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Exatamente 19",
+    "palpite": "exatos 19"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Mais de 19",
+    "palpite": "mais 19"
+  },
+  {
+    "mercado_descricao": "Escanteios",
+    "mercado": "escanteios",
+    "palpite_descricao": "Menos de 19",
+    "palpite": "menos 19"
+  },
+  {
+    "mercado_descricao": "Cartão Vermelho na Partida",
+    "mercado": "cartoes-vermelhos-na-partida",
+    "palpite_descricao": "Sim",
+    "palpite": "sim"
+  },
+  {
+    "mercado_descricao": "Cartão Vermelho na Partida",
+    "mercado": "cartoes-vermelhos-na-partida",
+    "palpite_descricao": "Não",
+    "palpite": "nao"
+  },
+  {
+    "mercado_descricao": "Ambos os Times Marcam - 1º Tempo - 2º Tempo",
+    "mercado": "ambos-times-marcam-1o-tempo-2o-tempo",
+    "palpite_descricao": "Sim (1º tempo) / Sim (2º tempo)",
+    "palpite": "sim - sim"
+  },
+  {
+    "mercado_descricao": "Ambos os Times Marcam - 1º Tempo - 2º Tempo",
+    "mercado": "ambos-times-marcam-1o-tempo-2o-tempo",
+    "palpite_descricao": "Sim (1º tempo) / Não (2º tempo)",
+    "palpite": "sim - nao"
+  },
+  {
+    "mercado_descricao": "Ambos os Times Marcam - 1º Tempo - 2º Tempo",
+    "mercado": "ambos-times-marcam-1o-tempo-2o-tempo",
+    "palpite_descricao": "Não (1º tempo) / Sim (2º tempo)",
+    "palpite": "nao - sim"
+  },
+  {
+    "mercado_descricao": "Ambos os Times Marcam - 1º Tempo - 2º Tempo",
+    "mercado": "ambos-times-marcam-1o-tempo-2o-tempo",
+    "palpite_descricao": "Não (1º tempo) / Não (2º tempo)",
+    "palpite": "nao - nao"
+  },
+  {
+    "mercado_descricao": "Jogador que marca em qualquer momento",
+    "mercado": "jogador-que-marca-qualquer-momento",
+    "palpite_descricao": "-",
+    "palpite": "-"
+  },
+  {
+    "mercado_descricao": "Jogador que marca o último gol",
+    "mercado": "jogador-que-marca-ultimo-gol",
+    "palpite_descricao": "-",
+    "palpite": "-"
+  },
+  {
+    "mercado_descricao": "Jogador que marca o 1º gol",
+    "mercado": "jogador-que-marca-1o-gol",
+    "palpite_descricao": "-",
+    "palpite": "-"
+  }
+]

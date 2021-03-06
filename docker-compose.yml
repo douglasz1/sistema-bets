@@ -1,0 +1,78 @@
+# sintaxe v2 do docker-compose
+version: "2"
+
+# Volumes (para que os dados nao se percam)
+volumes:
+  # Dados do MySQL
+  # remova se voce nao for usar mysql
+  esportes-mysql-data:
+    driver: local
+
+  # Dados do Redis
+  # remova se nao for usar redis
+  esportes-redis-data:
+    driver: local
+
+services:
+  mysql:
+    image: mysql:latest
+    command: --default-authentication-plugin=mysql_native_password
+    container_name: esportes-mysql
+    volumes:
+      - esportes-mysql-data:/var/lib/mysql
+    ports:
+      - "3306:3306"
+    environment:
+      - MYSQL_ROOT_PASSWORD=esportes
+      - MYSQL_DATABASE=esportes
+      - MYSQL_USER=esportes
+      - MYSQL_PASSWORD=esportes
+
+  cache:
+    image: redis:alpine
+    container_name: esportes-redis
+    command: --appendonly yes
+    volumes:
+      - esportes-redis-data:/data
+    ports:
+      - "6379:6379"
+
+  app:
+    image: ambientum/php:7.3-nginx
+    container_name: esportes-app
+    restart: always
+    volumes:
+      - .:/var/www/app
+    ports:
+      - "80:8080"
+    links:
+      - mysql
+      - cache
+
+  # Laravel Queues
+  queue:
+    image: ambientum/php:7.3
+    container_name: esportes-queue
+    command: php artisan queue:listen --queue=betStatus,matches --tries=3
+    restart: always
+    volumes:
+      - .:/var/www/app
+    links:
+      - mysql
+      - cache
+
+  adminer:
+    image: adminer:latest
+    ports:
+      - "8080:8080"
+    links:
+      - mysql
+
+  phpredisadmin:
+    image: erikdubbelboer/phpredisadmin
+    ports:
+      - "8081:80"
+    links:
+      - cache
+    environment:
+      - REDIS_1_HOST=cache

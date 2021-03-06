@@ -1,0 +1,121 @@
+#bilhete-bets{
+
+    .btn-search {
+        padding: 9px 12px;
+    }
+
+    h4 {
+        font-size: 14px;
+        font-weight: bold;
+        margin: 5px;
+        text-align: center;
+    }
+
+    hr {
+        width: 99%;
+        border: 0;
+        border-bottom: 1px dashed black;
+        margin-block-start: 0.5em;
+        margin-block-end: 0.5em;
+    }
+
+    .corpo-bilhete {
+        border: 1px solid rgba(0, 0, 0, 0.4);
+        box-shadow: rgba(31, 31, 31, 0.5) 0px 2px 7px 3px;
+        width: calc(100% - 20px);
+        margin: 15px 10px;
+        padding: 10px;
+        background-color: rgb(248, 236, 194);
+        color: black;
+        box-sizing: border-box;
+        border-radius: 3px;
+    }
+
+    .btn-imprimir {
+        width: calc(100% - 20px);
+        background-color: var(--btn-primary-color) !important;
+        color: var(--primary-text-color) !important;
+        border: none;
+        text-align: center;
+        box-sizing: border-box;
+        padding: 15px;
+        margin: 10px 10px 0;
+    }
+
+    .btn-situacao {
+        width: calc(100% - 20px);
+        text-decoration: none;
+        color: white;
+        display: block;
+        text-align: center;
+        padding: 15px;
+        box-sizing: border-box;
+        margin: 10px;
+        text-transform: capitalize;
+    }
+
+    .btn-aguardando, .btn-pending {
+        color: white;
+        background-color: rgb(58, 95, 205);
+        padding-right: 5px;
+        display: block;
+    }
+
+    .btn-perdedor, .btn-lose {
+        color: white;
+        background-color: rgb(255, 64, 64);
+        padding-right: 5px;
+        display: block;
+    }
+
+    .btn-cancelado, .btn-canceled {
+        color: white;
+        background-color: rgb(255, 165, 0);
+        padding-right: 5px;
+        display: block;
+    }
+
+    .btn-vencedor, .btn-win {
+        color: white;
+        background-color: rgb(0, 106, 35);
+        padding-right: 5px;
+        display: block;
+    }
+
+    .botao-validar {
+        width: 400px;
+        min-height: 60px;
+        margin: 20px auto;
+
+    }
+    .btn {
+        width: 100%;
+    }
+
+
+    .footer{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .footer button{
+        margin-bottom: 5px !important;
+        width: 100% !important;
+    }
+
+    .footer .btn-warning{
+        left: 2px;
+    }
+
+    .modal-footer {
+        padding: 5px 15px !important;
+        width: calc(100% - 30px);
+        margin: 15px 10px;
+    }
+
+    .modal-body {
+        padding-bottom: 0;
+    }
+
+}
